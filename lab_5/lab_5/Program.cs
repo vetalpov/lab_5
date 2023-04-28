@@ -136,7 +136,7 @@ class ForestSimulator
         PineTree pineTree2 = new PineTree(20);
         SpruceTree spruceTree1 = new SpruceTree(30);
         Birch birchTree1 = new Birch(10);
-        BlueberryBush blueberryBush1 = new BlueberryBush(50);
+        BlueberryBush blueberryBush1 = new BlueberryBush(51);
         BlueberryBush blueberryBush2 = new BlueberryBush(70);
         CranberryBush cranberryBush1 = new CranberryBush(30);
         CranberryBush cranberryBush2 = new CranberryBush(40);
